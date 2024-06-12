@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "db71e3a22cb191d0",
+        "id": "f8b70c3a7c2106e9",
         "type": "tabs",
         "children": [
           {
-            "id": "8a0cb60bc5bf1f10",
+            "id": "a633018f7ade732b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cheat-sheets/cloud/civo.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cheat-sheets/cloud/civo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cheat-sheets/cloud/civo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "cheat-sheets/cloud/civo.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,15 +140,26 @@
   },
   "active": "0820db0e89a463d7",
   "lastOpenFiles": [
+    "00 - notes/notes.md",
+    "Untitled.canvas",
+    "00 - notes/Untitled.canvas",
+    "cheat-sheets/qlik/Useful.md",
+    "05 - export",
+    "04 - assets",
+    "03 - templates",
+    "02 - calender",
+    "01 - logs",
+    "cheat-sheets/linux/user.md",
+    "cheat-sheets/cloud/civo.md",
+    "cheat-sheets/README.md",
+    "cheat-sheets/qlik",
     "00 - notes",
     "cheat-sheets/infra/sql.md",
     "cheat-sheets/infra/proxmox.md",
     "cheat-sheets/infra/mysql.md",
-    "cheat-sheets/linux/user.md",
     "cheat-sheets/misc/color-codes.md",
     "cheat-sheets/tools/docker.md",
     "cheat-sheets/tools/1password.md",
-    "cheat-sheets/README.md",
     "cheat-sheets/windows/windows-server.md",
     "cheat-sheets/windows/powershell.md",
     "cheat-sheets/windows/environment-vars.md",
@@ -173,15 +176,6 @@
     "cheat-sheets/tools",
     "cheat-sheets/misc/twisted-pair-cables.md",
     "cheat-sheets/misc/smtp-codes.md",
-    "cheat-sheets/misc/http-status-codes.md",
-    "cheat-sheets/misc/ehlo-codes.md",
-    "cheat-sheets/misc/dns.md",
-    "cheat-sheets/misc",
-    "cheat-sheets/macos",
-    "cheat-sheets/linux",
-    "cheat-sheets/infra",
-    "cheat-sheets/cloud",
-    "cheat-sheets/LICENSE",
-    "cheat-sheets"
+    "cheat-sheets/misc"
   ]
 }
