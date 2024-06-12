@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "5f174204680b0469",
+    "type": "split",
+    "children": [
+      {
+        "id": "db71e3a22cb191d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a0cb60bc5bf1f10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cheat-sheets/cloud/civo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6aee44c695c96b1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7763e6373708892",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0820db0e89a463d7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e5878ecbfa51f3a0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3ef58c1dddda1199",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "11a8b9466ba56c31",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e0a410bedd2ad8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcf9ef5758559674",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "cheat-sheets/cloud/civo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c5ebbe98256de9b8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "cheat-sheets/cloud/civo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bb2af27c0b23a1a1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "82f652d98e89df2e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "cheat-sheets/cloud/civo.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0820db0e89a463d7",
+  "lastOpenFiles": [
+    "00 - notes",
+    "cheat-sheets/infra/sql.md",
+    "cheat-sheets/infra/proxmox.md",
+    "cheat-sheets/infra/mysql.md",
+    "cheat-sheets/linux/user.md",
+    "cheat-sheets/misc/color-codes.md",
+    "cheat-sheets/tools/docker.md",
+    "cheat-sheets/tools/1password.md",
+    "cheat-sheets/README.md",
+    "cheat-sheets/windows/windows-server.md",
+    "cheat-sheets/windows/powershell.md",
+    "cheat-sheets/windows/environment-vars.md",
+    "cheat-sheets/windows/chocolatey.md",
+    "cheat-sheets/windows/certutil.md",
+    "cheat-sheets/windows",
+    "cheat-sheets/tools/wsl.md",
+    "cheat-sheets/tools/vagrant.md",
+    "cheat-sheets/tools/terraform.md",
+    "cheat-sheets/tools/openssl.md",
+    "cheat-sheets/tools/kubectl.md",
+    "cheat-sheets/tools/helm.md",
+    "cheat-sheets/tools/git.md",
+    "cheat-sheets/tools",
+    "cheat-sheets/misc/twisted-pair-cables.md",
+    "cheat-sheets/misc/smtp-codes.md",
+    "cheat-sheets/misc/http-status-codes.md",
+    "cheat-sheets/misc/ehlo-codes.md",
+    "cheat-sheets/misc/dns.md",
+    "cheat-sheets/misc",
+    "cheat-sheets/macos",
+    "cheat-sheets/linux",
+    "cheat-sheets/infra",
+    "cheat-sheets/cloud",
+    "cheat-sheets/LICENSE",
+    "cheat-sheets"
+  ]
+}
