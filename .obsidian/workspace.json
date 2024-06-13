@@ -11,8 +11,10 @@
             "id": "a633018f7ade732b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
             }
           }
         ]
@@ -138,7 +140,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0820db0e89a463d7",
+  "active": "a633018f7ade732b",
   "lastOpenFiles": [
     "00 - notes/notes.md",
     "Untitled.canvas",
