@@ -142,6 +142,10 @@
   },
   "active": "a633018f7ade732b",
   "lastOpenFiles": [
+    "06 - cheat-sheets/Linux/create shortcut commands in terminal",
+    "06 - cheat-sheets/Linux/create ",
+    "06 - cheat-sheets/Linux",
+    "06 - cheat-sheets",
     "00 - notes/notes.md",
     "Untitled.canvas",
     "00 - notes/Untitled.canvas",
@@ -167,7 +171,6 @@
     "cheat-sheets/windows/environment-vars.md",
     "cheat-sheets/windows/chocolatey.md",
     "cheat-sheets/windows/certutil.md",
-    "cheat-sheets/windows",
     "cheat-sheets/tools/wsl.md",
     "cheat-sheets/tools/vagrant.md",
     "cheat-sheets/tools/terraform.md",
@@ -175,9 +178,7 @@
     "cheat-sheets/tools/kubectl.md",
     "cheat-sheets/tools/helm.md",
     "cheat-sheets/tools/git.md",
-    "cheat-sheets/tools",
     "cheat-sheets/misc/twisted-pair-cables.md",
-    "cheat-sheets/misc/smtp-codes.md",
-    "cheat-sheets/misc"
+    "cheat-sheets/misc/smtp-codes.md"
   ]
 }
