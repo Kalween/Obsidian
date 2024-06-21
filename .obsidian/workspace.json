@@ -11,9 +11,11 @@
             "id": "a633018f7ade732b",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.3"
+                "file": "06 - cheat-sheets/Linux/Shortcuts in terminal.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "06 - cheat-sheets/Linux/Shortcuts in terminal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "06 - cheat-sheets/Linux/Shortcuts in terminal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "06 - cheat-sheets/Linux/Shortcuts in terminal.md"
+              }
             }
           }
         ]
@@ -140,8 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a633018f7ade732b",
+  "active": "0820db0e89a463d7",
   "lastOpenFiles": [
+    "06 - cheat-sheets/Python",
+    "06 - cheat-sheets/Linux/Shortcuts in terminal.md",
     "06 - cheat-sheets/Linux/create shortcut commands in terminal",
     "06 - cheat-sheets/Linux/create ",
     "06 - cheat-sheets/Linux",
@@ -159,7 +167,6 @@
     "cheat-sheets/cloud/civo.md",
     "cheat-sheets/README.md",
     "cheat-sheets/qlik",
-    "00 - notes",
     "cheat-sheets/infra/sql.md",
     "cheat-sheets/infra/proxmox.md",
     "cheat-sheets/infra/mysql.md",
@@ -178,7 +185,6 @@
     "cheat-sheets/tools/kubectl.md",
     "cheat-sheets/tools/helm.md",
     "cheat-sheets/tools/git.md",
-    "cheat-sheets/misc/twisted-pair-cables.md",
-    "cheat-sheets/misc/smtp-codes.md"
+    "cheat-sheets/misc/twisted-pair-cables.md"
   ]
 }
